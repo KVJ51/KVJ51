@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KVJ51
 - 👀 I’m interested in coding , software development
 - 🌱 I’m currently learning Java , Python
-- 💞️ I’m looking to collaborate on open sourse project
-- 📫 How to reach me email , linkedin
+- 💞️ I’m looking to collaborate on open source project
+- 📫 How to reach me : email , linkedin
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reading and playing chess
 
